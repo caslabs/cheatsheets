@@ -1,2 +1,2 @@
 # wikisheets
-Open collaboration template to compress course materials
+A template to compress course materials
