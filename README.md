@@ -1,2 +1,2 @@
 # wikisheets
-Open collaboration to quantify your course material
+Open collaboration to quantify course materials
